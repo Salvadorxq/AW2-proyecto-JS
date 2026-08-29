@@ -1,0 +1,8 @@
+[
+  {"id": 1,"nombre": "Teclado Mecánico Redragon","descripcion": "Teclado mecánico con iluminación RGB","categoria": "Periféricos","precio": 65000,"stock": 15,"disponible": true},
+  { "id": 2,"nombre": "Mouse Logitech G203","descripcion": "Mouse gamer con sensor de alta precisión","categoria": "Periféricos","precio": 42000,"stock": 20,"disponible": true },
+  { "id": 3, "nombre": "Monitor Samsung 24 pulgadas", "descripcion": "Monitor Full HD de 24 pulgadas", "categoria": "Monitores", "precio": 185000,  "stock": 8, "disponible": true},
+  { "id": 4, "nombre": "Auriculares HyperX Cloud",  "descripcion": "Auriculares con micrófono para PC", "categoria": "Audio",   "precio": 95000,   "stock": 0, "disponible": false},
+  { "id": 5,"nombre": "Webcam Logitech C920","descripcion": "Cámara web Full HD para videollamadas","categoria": "Cámaras","precio": 110000,"stock": 7,"disponible": true },
+  {"id": 6,"nombre": "SSD Kingston 1TB","descripcion": "Unidad de almacenamiento SSD de 1 TB","categoria": "Almacenamiento","precio": 125000,"stock": 12,"disponible": true}
+]

@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nombre": "Juan", "apellido": "Pérez", "email": "juan.perez@email.com", "activo": true },
+  { "id": 2, "nombre": "María", "apellido": "Gómez", "email": "maria.gomez@email.com", "activo": true},
+  {"id": 3, "nombre": "Lucas", "apellido": "Rodríguez", "email": "lucas.rodriguez@email.com", "activo": false},
+  {"id": 4,"nombre": "Sofía","apellido": "Martínez","email": "sofia.martinez@email.com","activo": true},
+  {"id": 5,"nombre": "Tomás","apellido": "Fernández","email": "tomas.fernandez@email.com","activo": true}
+]
