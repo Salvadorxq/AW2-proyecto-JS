@@ -1,0 +1,56 @@
+Estructuras
+
+- `usuarios.json`: contiene la informacion de los usuarios
+- `productos.json`: contiene la informacion de los productos
+- `ventas.json`: contiene la informacion de las ventas realizadas
+
+
+Rutas
+
+GET
+
+*GET /usuarios*
+
+Consulta y devuelve todos los usuarios registrados.
+
+*GET /productos*
+
+Consulta y devuelve todos los productos registrados.
+
+
+
+POST
+
+*POST /usuarios*
+
+Permite crear y agregar un nuevo usuario
+
+*POST /ventas*
+
+Permite crear y agregar una nueva venta.
+
+
+
+PUT
+
+*PUT /productos/:id*
+
+Permite modificar el precio de un producto existente utilizando su ID
+
+Ejemplos de uso:
+
+`PUT /productos`
+
+
+
+DELETE
+
+*DELETE /productos/:id*
+
+Permite eliminar un producto utilizando su ID
+
+Antes de eliminarlo se verifica que el producto no se encuentre relacionado con ninguna venta, para mantener la integridad de los datos seguras
+
+Ejemplo:
+
+`DELETE /productos/4`
