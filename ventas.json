@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "id_usuario": 1,
+    "fecha": "2026-04-10",
+    "total": 130000,
+    "direccion": "Córdoba Capital",
+    "productos": [
+      { "id_producto": 1 },
+      { "id_producto": 2 }
+    ]
+  },
+  {
+    "id": 2,
+    "id_usuario": 2,
+    "fecha": "2026-04-09",
+    "total": 300000,
+    "direccion": "Villa Carlos Paz",
+    "productos": [
+      { "id_producto": 3 }
+    ]
+  },
+  {
+    "id": 3,
+    "id_usuario": 3,
+    "fecha": "2026-04-08",
+    "total": 120000,
+    "direccion": "Alta Gracia",
+    "productos": [
+      { "id_producto": 4 }
+    ]
+  },
+  {
+    "id": 4,
+    "id_usuario": 4,
+    "fecha": "2026-04-07",
+    "total": 95000,
+    "direccion": "Córdoba Capital",
+    "productos": [
+      { "id_producto": 6 }
+    ]
+  },
+  {
+    "id": 5,
+    "id_usuario": 5,
+    "fecha": "2026-04-06",
+    "total": 250000,
+    "direccion": "Rio Cuarto",
+    "productos": [
+      { "id_producto": 7 }
+    ]
+  },
+  {
+    "id": 6,
+    "id_usuario": 6,
+    "fecha": "2026-04-05",
+    "total": 110000,
+    "direccion": "Villa María",
+    "productos": [
+      { "id_producto": 8 }
+    ]
+  },
+  {
+    "id": 7,
+    "id_usuario": 7,
+    "fecha": "2026-04-04",
+    "total": 95000,
+    "direccion": "Córdoba Capital",
+    "productos": [
+      { "id_producto": 6 }
+    ]
+  },
+  {
+    "id": 8,
+    "id_usuario": 8,
+    "fecha": "2026-04-03",
+    "total": 20000,
+    "direccion": "Jesús María",
+    "productos": [
+      { "id_producto": 5 }
+    ]
+  }
+]

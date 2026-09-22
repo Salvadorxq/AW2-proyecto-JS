@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Salvador",
+    "apellido": "Matellica",
+    "email": "salva@gmail.com",
+    "contraseña": "123456"
+    },
+  {
+    "id": 2,
+    "nombre": "Lucia",
+    "apellido": "Gomez",
+    "email": "lucia@gmail.com",
+    "contraseña": "abc123"
+    },
+  {
+    "id": 3,
+    "nombre": "Martin",
+    "apellido": "Perez",
+    "email": "martin@gmail.com",
+    "contraseña": "password"
+    },
+  {
+    "id": 4,
+    "nombre": "Sofia",
+    "apellido": "Lopez",
+    "email": "sofia@gmail.com",
+    "contraseña": "sofia123"
+    },
+  {
+    "id": 5,
+    "nombre": "Juan",
+    "apellido": "Fernandez",
+    "email": "juan@gmail.com",
+    "contraseña": "juan456"
+    },
+  {
+    "id": 6,
+    "nombre": "Valentina",
+    "apellido": "Diaz",
+    "email": "valen@gmail.com",
+    "contraseña": "valen789"
+    },
+  {
+    "id": 7,
+    "nombre": "Lucas",
+    "apellido": "Martinez",
+    "email": "lucas@gmail.com",
+    "contraseña": "lucas321"
+    },
+  {
+    "id": 8,
+    "nombre": "Camila",
+    "apellido": "Torres",
+    "email": "camila@gmail.com",
+    "contraseña": "camila654"
+    }
+]

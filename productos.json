@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mouse Gamer Logitech G502",
+    "desc": "Mouse con sensor",
+    "precio": 75000,
+    "imagen": "mouse.jpg"
+    },
+  {
+    "id": 2,
+    "nombre": "Teclado Mecanico Redragon Kumara",
+    "desc": "Teclado con switches blue",
+    "precio": 55000,
+    "imagen": "teclado.jpg"
+    },
+  {
+    "id": 3,
+    "nombre": "Monitor Samsung 27 pulgadas",
+    "desc": "Monitor 144Hz",
+    "precio": 300000,
+    "imagen": "monitor.jpg"
+    },
+  {
+    "id": 4,
+    "nombre": "Auriculares Hyperx",
+    "desc": "Sonido 7.1",
+    "precio": 120000,
+    "imagen": "auriculares.jpg"
+    },
+  {
+    "id": 5,
+    "nombre": "Mousepad XL RGB",
+    "desc": "Alfombrilla grande con RGB",
+    "precio": 20000,
+    "imagen": "mousepad.jpg"
+    },
+  {
+    "id": 6,
+    "nombre": "Webcam Logitech",
+    "desc": "Full HD 1080p",
+    "precio": 95000,
+    "imagen": "webcam.jpg"
+    },
+  {
+    "id": 7,
+    "nombre": "Silla Gamer",
+    "desc": "Ergonomica reclinable",
+    "precio": 250000,
+    "imagen": "silla.jpg"
+    },
+  {
+    "id": 8,
+    "nombre": "Disco SSD 1TB",
+    "desc": "Alta velocidad",
+    "precio": 110000,
+    "imagen": "ssd.jpg"
+    }
+]
